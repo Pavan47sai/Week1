@@ -1,7 +1,6 @@
 
 # 📘 Electric Vehicle (EV) Cost Prediction using Machine Learning
 
-## 🚀 Project Overview
 This project predicts the **Base MSRP (Manufacturer Suggested Retail Price)** of electric vehicles (EVs) using machine learning.  
 The model leverages key features such as battery range, brand, model year, and efficiency metrics to estimate the cost of an EV accurately.
 
@@ -16,6 +15,7 @@ The workflow includes:
 
 ## ⚙️ Tech Stack
 - **Language:** Python 3.x  
+- **Platform:** Google Colab
 - **Libraries:**  
   - pandas, numpy, matplotlib, seaborn  
   - scikit-learn  
